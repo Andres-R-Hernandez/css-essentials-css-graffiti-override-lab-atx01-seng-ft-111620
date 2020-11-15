@@ -16,21 +16,21 @@ body div#wall #tag-3.slick {
 }
 
 /*Tag 4*/
- {
+body #wall #tag-4 {
   display: none;
 }
 
 /*Tag 5*/
- {
+body div#wall .parent #tag-5.slick {
   display: none;
 }
 
 /*Tag 6*/
- {
+body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
 
 /*Tag 7*/
- {
+body div#wall div.parent div > #tag-7.slick {
   display: none;
 }
